@@ -1,3 +1,10 @@
+# Executable and image output
+shtuff
+*.ppm
+*.jpg
+*.gif
+*.png
+
 # Object files
 *.o
 *.ko
